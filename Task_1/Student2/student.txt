@@ -1,0 +1,12 @@
+Ali 20
+Noha 18.4
+Soha 19.6
+Ahmed 14 
+Alaa 16 
+Samah 17.7
+Nadia 20 
+Hassan 18.4
+Nour 19
+Karma 20 
+Omar 16 
+Yousif 18.9

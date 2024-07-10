@@ -1,0 +1,5 @@
+Average Grade: 18.17
+Maximum Grade: 20.0
+Minimum Grade: 14.0
+Students with Maximum Grade (20.0): Ali, Nadia, Karma
+Students with Minimum Grade (14.0): Ahmed
